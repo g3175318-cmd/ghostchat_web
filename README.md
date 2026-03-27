@@ -130,6 +130,11 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
+ ## 💰 You can help me by Donating
+[![Support Me via UPI](https://img.shields.io/badge/Support_Me-UPI-6739B7?style=for-the-badge&logo=phonepe&logoColor=white)](https://support-me-fbhd.onrender.com)
+
+---
+
 <div align="center">
 
 **👻 GhostChat — Connect without the world's network**
